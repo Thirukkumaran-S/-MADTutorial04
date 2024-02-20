@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="text1">Enter Email</string>
+    <string name="pwd">Enter Password</string>
+    <string name="pwd2">Re-enter password</string>
+    <string name="btn1">Submit</string>
+    <string name="btn2">Cancel</string>
+
 </resources>
